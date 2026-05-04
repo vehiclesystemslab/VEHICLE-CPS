@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or the underlying VEHICLE-CPS architecture, please cite it as follows."
+authors:
+  - family-names: "Borda Milan"
+    given-names: "Roberto"
+    orcid: "https://orcid.org/0009-0009-9047-1036"
+title: "VEHICLE-CPS: Civil Protection Systems — A Projection-Governed Architecture"
+version: 1.0.0
+doi: 10.5281/zenodo.20019751
+date-released: 2026-05-04
+url: "https://github.com/tu-usuario/VEHICLE-CPS"
+repository-code: "https://github.com/tu-usuario/VEHICLE-CPS"
+keywords:
+  - "VEHICLE-CPS"
+  - "Borda Milan Pyramid"
+  - "Civil Protection"
+  - "Leader Protection"
+  - "E.I.A.R.(V)"
+  - "Projection-Governed Systems"
+abstract: >-
+  VEHICLE-CPS is a mathematical framework for mass event security and leader protection based on the 
+  Borda Milan Pyramid. It utilizes the E.I.A.R.(V) structured node state and a projection-governed 
+  operator to detect and mitigate perimeter breaches and anomalous crowd concentrations in real-time.
