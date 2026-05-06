@@ -1,0 +1,7 @@
+# Figure Caption — VEHICLE-CPS v1.1
+
+**Figure — VEHICLE-CPS v1.1 conceptual architecture.** This figure presents VEHICLE-CPS — Civil Protection Systems as an applied extension of the Borda Milan Pyramid and the VEHICLE Formula-as-Architecture to high-density human environments. The diagram summarizes how public events, protected areas, emergency scenarios and critical infrastructures can be interpreted as relational fields under tension, where people, routes, access points, operational teams, credentials and protected zones are modeled as structured nodes within a dynamic graph.
+
+The visual emphasizes five core dimensions of the framework: the mathematical architecture, the environmental reading of relational coherence, the operational regimes P0–P6, the principal application environments and the ethical boundaries of the system. VEHICLE-CPS is positioned as a civil protection decision-support layer designed to improve environmental safety, perimeter coherence and controlled human response under mandatory human supervision.
+
+Rather than identifying individuals or automating enforcement, VEHICLE-CPS focuses on detecting early loss of coherence in the environment: rising density, route pressure, anomalous concentration, perimeter deformation, disconnected operational nodes or evacuation stress. The figure therefore represents the system as a preventive structural intelligence layer for safer human environments, integrating mathematical modeling, operational classification and ethical governance into a unified civil protection architecture.
