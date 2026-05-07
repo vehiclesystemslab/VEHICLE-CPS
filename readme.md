@@ -241,3 +241,4 @@ The next milestone is a reproducible simulation package for 1,000–10,000 human
 
 **VEHICLE Systems Lab**  
 https://vehiclesystemslab.com
+**Email:** info@vehiclesystemslab.com
