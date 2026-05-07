@@ -239,6 +239,15 @@ The next milestone is a reproducible simulation package for 1,000–10,000 human
 
 ## Contact
 
-**VEHICLE Systems Lab**  
-https://vehiclesystemslab.com
-**Email:** info@vehiclesystemslab.com
+## Contact
+
+**Roberto Borda Milan**  
+VEHICLE Systems Lab  
+Santa Cruz, Bolivia  
+
+**Website:** https://vehiclesystemslab.com  
+**GitHub:** https://github.com/vehiclesystemslab  
+**ORCID:** https://orcid.org/0009-0009-9047-1036  
+**Zenodo:** https://zenodo.org/records/20046955  
+**DOI:** https://doi.org/10.5281/zenodo.20046955  
+**Email:** contact@vehiclesystemslab.com
